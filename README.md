@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hello there! I'm Cinthya 👩‍💻
 
-<!--
-**cinlrp/cinlrp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Systems Engineering student  
+💻 Passionate about programming, databases, and software development  
+🌱 Currently learning mobile app development, cloud computing, and cybersecurity  
+🚀 My goal: to become a skilled software engineer and build meaningful tech solutions
 
-Here are some ideas to get you started:
+## 💡 Technologies & Languages I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Languages: `C`, `C++`, `Java`, `SQL`, `HTML`, `CSS`, `Lisp`, `Prolog`, `VHDL`
+- Databases: MySQL, Access
+- Tools: Android Studio, VS Code, NetBeans, Dev C++, Packet Tracer, Galaxy VHDL
+- Operating Systems: Windows & Linux
+
+## 🧠 Currently learning
+
+- Android cross-platform development  
+- Git & GitHub  
+- Google Cloud (Cloud Computing & Cybersecurity)
+
+## 📚 Certifications
+
+- **Google Cloud Computing Foundations**  
+- **Google Cloud Cybersecurity (Beginner)**  
+- **Cisco Networking Academy**  
+  - CCNA: Introduction to Networks  
+  - CCNA: Switching, Routing, and Wireless Essentials
+
+## 🛠️ Coming soon...
+
+I’ll be uploading academic and personal projects soon.  
+I'm excited to create useful, functional, and creative applications 🎨
+
+---
+
+> 💬 *"Today I’m more myself than ever 🩷"*
