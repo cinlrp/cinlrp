@@ -32,5 +32,3 @@ I’ll be uploading academic and personal projects soon.
 I'm excited to create useful, functional, and creative applications 🎨
 
 ---
-
-> 💬 *"Today I’m more myself than ever 🩷"*
