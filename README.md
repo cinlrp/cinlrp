@@ -1,4 +1,3 @@
-# Hello there! I'm Cinthya 👩‍💻
 
 🎓 Computer Systems Engineering student  
 
